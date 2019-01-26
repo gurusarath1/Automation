@@ -11,3 +11,8 @@ Python 3.7.0b5
 
 
 Small apps to automate daily activities
+
+
+
+CheckIfFilesExist.exe - Check if a list of files exist in a destination folder.
+MoveFiles.exe - Move a list of files from one folder to another.
